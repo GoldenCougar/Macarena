@@ -1,12 +1,3 @@
-- layout: right
-  company: Company 1
-  link: https://google.com
-  job_title: Job title 1
-  dates: November 2016 - present
-  quote: >
-   Short description of the company (optional)
-  description: >
-    Description of role
   # Experience template
 - layout: left
   company: Sermaluc
@@ -14,9 +5,23 @@
   job_title: Analista Programador
   dates: Abril 2021 hasta actualidad
   quote: >
-    Empresa de desarrollo de software y consultoría informática.
+    Chile
   description: | # this will include new lines to allow paragraphs
     Desarrollo de proyectos de mejora para sistemas utilizados en Banca, en los cuales se buscaba añadir a los softwares menús que permitieran el curse de nuevos tipos de créditos. Se debieron crear componentes y modelar bases de datos, además de crear procedimientos de almacenado en Sybase para insertar y extraer la información requerida.
+#########
+- layout: left
+  company: Everis Centers Chile
+  #link: Link to company (optional)
+  job_title: Centers Junior
+  dates: Octubre 2019 - Abril 2021
+  quote: >
+   Temuco, Chile
+  description: | # this will include new lines to allow paragraphs
+    Participación en equipo de mantenimiento en Banca, en dos canales, Banca Personas y Banca Empresas, en este último, con experiencia de más de un año realizando las actividades siguientes.
+      Búsqueda de causas raíz de problemas levantados por clientes internos y externos.
+      Desarrollo de soluciones para estos problemas reportados.
+      Generación de documentación de apoyo para los procesos del equipo.
+      Capacitación a nuevos miembros del equipo.
 
 - layout: top
   company: Company 2
