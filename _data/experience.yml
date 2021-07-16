@@ -9,49 +9,5 @@ dates: Abril 2021 hasta actualidad
 description: | # this will include new lines to allow paragraphs
   Desarrollo de proyectos de mejora para sistemas utilizados en Banca, en los cuales se buscaba añadir a los softwares menús que permitieran el curse de nuevos tipos de créditos. Se debieron crear componentes y modelar bases de datos, además de crear procedimientos de almacenado en Sybase para insertar y extraer la información requerida.
 
-layout: top
-company: Everis Centers Chile
-  #link: Link to company (optional)
-job_title: Centers Junior
-dates: Octubre 2019 - Abril 2021
- # quote: >
-  # Short description of the company (optional)
-description: | # this will include new lines to allow paragraphs
-  Participación en equipo de mantenimiento en Banca, en dos canales, Banca Personas y Banca Empresas, en este último, con experiencia de más de un año realizando las actividades siguientes.
-    Búsqueda de causas raíz de problemas levantados por clientes internos y externos.
-    Desarrollo de soluciones para estos problemas reportados.
-    Generación de documentación de apoyo para los procesos del equipo.
-    Capacitación a nuevos miembros del equipo.
 
-layout: top-right
-company: SoftLean
-  #link: Link to company (optional)
-job_title: CoFundador
-dates: Enero 2019 - Octubre 2019
- # quote: >
-  # Short description of the company (optional)
-description: | # this will include new lines to allow paragraphs
-  
-layout: left
-company: ElevaMax
-  #link: Link to company (optional)
-job_title: CoFundador
-dates: Mayo 2018 - Octubre 2018
- # quote: >
-  # Short description of the company (optional)
-description: | # this will include new lines to allow paragraphs
-  Planificamos y desarrollamos alternativas para la mejora de los procesos y operaciones para empresas y organizaciones. Utilizamos distintas técnicas y herramientas, además del uso y desarrollo de sistemas de software.
-
-layout: left
-company: Swarm Technologies
-  #link: Link to company (optional)
-job_title: Project Manager
-dates: Junio 2018 - Octubre 2018
- # quote: >
-  # Short description of the company (optional)
-description: | # this will include new lines to allow paragraphs
-  Desarrollo de soluciones IoT para la industria, a través del uso de tecnología de radiofrecuencia, y desarrollo de software.
-   Gestión de proyectos.
-   Desarrollo de planes de marketing digital dentro de la empresa (SEO).
-   Evaluación de desempeño de practicantes dentro de la empresa. 
   
