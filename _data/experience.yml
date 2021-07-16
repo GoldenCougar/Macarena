@@ -9,7 +9,7 @@
   description: | # this will include new lines to allow paragraphs
     Desarrollo de proyectos de mejora para sistemas utilizados en Banca, en los cuales se buscaba añadir a los softwares menús que permitieran el curse de nuevos tipos de créditos. Se debieron crear componentes y modelar bases de datos, además de crear procedimientos de almacenado en Sybase para insertar y extraer la información requerida.
 #########
-- layout: left
+- layout: right
   company: Everis Centers Chile
   #link: Link to company (optional)
   job_title: Centers Junior
@@ -33,7 +33,7 @@
   description: | # this will include new lines to allow paragraphs
     Planificamos y desarrollamos alternativas para la mejora de los procesos y operaciones para empresas y organizaciones. Utilizamos distintas técnicas y herramientas, además del uso y desarrollo de sistemas de software.
 
-- layout: left
+- layout: right
   company: Swarm Technologies
   #link: Link to company (optional)
   job_title: Project Manager
@@ -46,22 +46,3 @@
       Desarrollo de planes de marketing digital dentro de la empresa (SEO).
       Evaluación de desempeño de practicantes dentro de la empresa. 
 
-
-- layout: top
-  company: Company 2
-  job_title: Job title 1
-  dates: January 2014 - November 2016
-  description: >
-    Description of role
-- layout: top-right
-  company: Company 3
-  jobs:
-    - title: Job title 1
-      dates: February 2013 - December 2013
-    - title: Job title 2
-      dates: June 2012 - February 2013
-  description: >
-    Description of role
-
-
-  
