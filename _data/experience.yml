@@ -1,13 +1,27 @@
-# Experience template
-layout: left
-company: Sermaluc
-  #link: Link to company (optional)
-job_title: Analista Programador
-dates: Abril 2021 hasta actualidad
- # quote: >
-  # Short description of the company (optional)
-description: | # this will include new lines to allow paragraphs
-  Desarrollo de proyectos de mejora para sistemas utilizados en Banca, en los cuales se buscaba añadir a los softwares menús que permitieran el curse de nuevos tipos de créditos. Se debieron crear componentes y modelar bases de datos, además de crear procedimientos de almacenado en Sybase para insertar y extraer la información requerida.
+- layout: right
+  company: Company 1
+  link: https://google.com
+  job_title: Job title 1
+  dates: November 2016 - present
+  quote: >
+   Short description of the company (optional)
+  description: >
+    Description of role
+- layout: top
+  company: Company 2
+  job_title: Job title 1
+  dates: January 2014 - November 2016
+  description: >
+    Description of role
+- layout: top-right
+  company: Company 3
+  jobs:
+    - title: Job title 1
+      dates: February 2013 - December 2013
+    - title: Job title 2
+      dates: June 2012 - February 2013
+  description: >
+    Description of role
 
 
   
