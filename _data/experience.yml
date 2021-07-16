@@ -7,6 +7,17 @@
    Short description of the company (optional)
   description: >
     Description of role
+  # Experience template
+- layout: left
+  company: Sermaluc
+  #link: Link to company (optional)
+  job_title: Analista Programador
+  dates: Abril 2021 hasta actualidad
+  quote: >
+    Empresa de desarrollo de software y consultoría informática.
+  description: | # this will include new lines to allow paragraphs
+    Desarrollo de proyectos de mejora para sistemas utilizados en Banca, en los cuales se buscaba añadir a los softwares menús que permitieran el curse de nuevos tipos de créditos. Se debieron crear componentes y modelar bases de datos, además de crear procedimientos de almacenado en Sybase para insertar y extraer la información requerida.
+
 - layout: top
   company: Company 2
   job_title: Job title 1
