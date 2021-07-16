@@ -1,9 +1,11 @@
 # Education Template
 - layout: left
-  name: Institution name
-  dates: Date Range (eg. 2016 - 2019)
-  qualification: Qualifications (eg. BA Performing Arts)
+  name: Universidad de La Frontera
+  dates: 2012 - 2017
+  qualification: Ingeniería civil Industrial mención informática
   quote: >
-    Short institution or course description (optional)
-  description: | # this will include new lines to allow paragraphs
-    Description of qualification
+    Titulación con distinción máxima
+    Participación en distintas agruaciones, y en proyectos de investigación docente.
+    Además de la realización de cursos y ayudatías.
+  #description: | # this will include new lines to allow paragraphs
+  #  Description of qualification
