@@ -3,21 +3,21 @@ repository: Git repository where your resume will be hosted, only required if yo
 # favicon: Directory of your favicon (eg. images/favicon.ico)(optional)
 
 # Personal info
-name: Your Name
-title: Your job title
-email: Your email (optional)
-phone: Your phone number (optional)
-cv   : "resume.pdf"
+name: Macarena Millapán
+title: Analista programador
+email: macarena.millapan.c@gmail.com
+#phone: Your phone number (optional)
+#cv   : "resume.pdf"
 #website: Your website (eg. https://google.com)(optional)
 
 # Social links
-#twitter_username: jekyllrb
-github_username:  moya10
+twitter_username: MGoldenCougar
+github_username:  GoldenCougar
 #dribbble_username: jekyll
 #facebook_username: jekyll
 #flickr_username: jekyll
 #instagram_username: jekyll
-#linkedin_username: jekyll
+linkedin_username: Macarena
 #xing_username: jekyll
 #pinterest_username: jekyll
 #youtube_username: jekyll
@@ -27,13 +27,9 @@ github_username:  moya10
 # about_title: About Me (Use this to override about section title)
 about_profile_image: images/profile.jpg
 about_content: | # this will include new lines to allow paragraphs
-  Write an awesome description about yourself here, this supports markdown, so you can add links and highlight things <mark>like this</mark>.
-
-  You can even add paragraphs by using empty lines like this and add anything else markdown supports such as
-    - [My Awesome Resume](https://moya10.github.io/awesome-cv/resume.pdf)
-    - Tables
-    - Links
-    - Images
+  Titulada en Ingeniería civil Industrial con mención en informática, me desempeño actualmente como desarrolladora de software, dando mantenimiento a aplicaciones web y servicios en bash, además me interesa la investigación, en áreas como logística, Supply Chain aplicado a la industria y al servicio público.
+  Cuento con conocimientos en temáticas relacionadas con gestión de la calidad, marketing, y marketing digital. Y tengo habilidades para el uso y construcción de bases de datos, y programación.
+  Soy una fotógrafa autodidacta y disfruto de la narración literaria, por lo que he escrito novelas publicadas en internet y artículos de blogs para las empresas en donde he trabajado.
 
 # Projects Section
 # projects_title: Projects #(Use this to override about projects section title)
