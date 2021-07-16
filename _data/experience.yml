@@ -17,10 +17,10 @@
   # Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     Participación en equipo de mantenimiento en Banca, en dos canales, Banca Personas y Banca Empresas, en este último, con experiencia de más de un año realizando las actividades siguientes.
-    - Búsqueda de causas raíz de problemas levantados por clientes internos y externos.
-    - Desarrollo de soluciones para estos problemas reportados.
-    - Generación de documentación de apoyo para los procesos del equipo.
-    - Capacitación a nuevos miembros del equipo.
+     Búsqueda de causas raíz de problemas levantados por clientes internos y externos.
+     Desarrollo de soluciones para estos problemas reportados.
+     Generación de documentación de apoyo para los procesos del equipo.
+     Capacitación a nuevos miembros del equipo.
     
   company: SoftLean
   #link: Link to company (optional)
@@ -47,7 +47,7 @@
   # Short description of the company (optional)
   description: | # this will include new lines to allow paragraphs
     Desarrollo de soluciones IoT para la industria, a través del uso de tecnología de radiofrecuencia, y desarrollo de software.
-    - Gestión de proyectos.
-    - Desarrollo de planes de marketing digital dentro de la empresa (SEO).
-    - Evaluación de desempeño de practicantes dentro de la empresa. 
+     Gestión de proyectos.
+     Desarrollo de planes de marketing digital dentro de la empresa (SEO).
+     Evaluación de desempeño de practicantes dentro de la empresa. 
   
